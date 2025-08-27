@@ -5,20 +5,30 @@ A computação em nuvem trouxe uma nova forma de gerenciar recursos de tecnologi
 
 1. Escalabilidade e Elasticidade
 
-Um dos maiores diferenciais da nuvem é a possibilidade de ajustar os recursos conforme a necessidade. Isso significa que é possível aumentar a capacidade em momentos de maior demanda e reduzir quando não for mais necessário. Esse processo pode ocorrer de forma automática, evitando gastos desnecessários e garantindo melhor desempenho.
+* A nuvem permite aumentar ou reduzir recursos conforme a demanda.
+* Escalabilidade = crescer sob demanda; Elasticidade = ajustar automaticamente.
+* Isso evita desperdício e garante que o sistema aguente picos de uso (ex.: promoções online).
 
 2. Confiabilidade, Previsibilidade e Segurança
 
-Os serviços em nuvem oferecem alta disponibilidade, garantindo que sistemas e aplicações fiquem acessíveis praticamente o tempo todo. Além disso, os custos são mais previsíveis, já que o modelo de cobrança é baseado no consumo. Outro ponto fundamental é a segurança, com recursos como criptografia, backups automáticos e controle de acesso, que protegem dados e aplicações contra falhas e ataques.
+* Serviços têm alta disponibilidade (quase nunca ficam fora do ar).
+* Custos previsíveis porque pago só pelo que uso.
+* Segurança reforçada: criptografia, backups automáticos, controle de acessos.
 
 3. Governança e Gerenciabilidade
 
-Na nuvem, as empresas têm maior controle sobre o uso dos recursos e podem aplicar regras de conformidade e auditoria. Além disso, o gerenciamento é facilitado por ferramentas que permitem monitorar custos, desempenho e segurança em tempo real, trazendo maior transparência e eficiência para a gestão de TI.
+* Dá para acompanhar o uso em tempo real.
+* Ferramentas de monitoramento ajudam no controle de custos e desempenho.
+* Permite aplicar políticas de conformidade e auditoria (organização tem mais controle).
 
 4. Redução de Custos e Eficiência
 
-A computação em nuvem elimina a necessidade de investimentos pesados em infraestrutura física. Em vez de comprar e manter servidores próprios, as organizações pagam apenas pelo que utilizam. Isso reduz os custos operacionais e possibilita que empresas de diferentes portes tenham acesso a tecnologias avançadas.
+* Não preciso gastar com servidores físicos nem manutenção.
+* Modelo de pagamento sob demanda = economia.
+* Pequenas empresas conseguem acessar tecnologia de ponta sem grandes investimentos.
 
 5. Inovação e Agilidade
 
-Por fim, a nuvem facilita a inovação, permitindo que novos projetos sejam testados e implementados rapidamente. Tecnologias como Inteligência Artificial, Big Data e Internet das Coisas ficam mais acessíveis, incentivando a criação de soluções modernas e competitivas.
+* Facilidade para testar novas ideias rapidamente.
+* Acesso a tecnologias modernas (IA, Big Data, IoT).
+* Ajuda na transformação digital das empresas.
